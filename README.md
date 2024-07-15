@@ -1,5 +1,3 @@
-# Aplicativo Coronavirus - SUS
-
 O app visa conscientizar a população sobre o coronavírus (Covid-19), trazendo informativos de diversos tópicos como os sintomas, como se prevenir, o que fazer em caso de suspeita e infecção, mapa indicando unidades de saúde próximas, etc.
 
 # Requerimentos
